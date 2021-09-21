@@ -23,6 +23,7 @@
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
+        padding-bottom: 25px;
     }
     
     main h1 {
@@ -33,4 +34,9 @@
     ul {
         list-style: none;
         padding: 0;
+    }
+
+    img {
+        width: 100%;
+
     }
