@@ -8,10 +8,6 @@ const team = [
         occupation: "Trop Belle"
     },
     {
-        name: "Margaux",
-        occupation: "Trop Belle" 
-    },
-    {
         name: "Nico",
         occupation: "Futur ultras 🔴🔵"
     },
