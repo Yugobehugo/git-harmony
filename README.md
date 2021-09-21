@@ -15,7 +15,7 @@ Add your name and job to the **team** constant
 # BIENVENUE SUR NOTRE PAGE GITHUB 🇫🇷
 
 ## Étape 1 
-Cloner le repositorie
+Cloner le dêpot
 
 ## Étape 2
 Aller sur le script.js 
