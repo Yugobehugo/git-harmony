@@ -1,0 +1,36 @@
+    body {
+        margin: 0;
+        padding: 0;
+        color: #CEAB5D;
+    }
+    
+    header {
+        height: 200px;
+        background: #004170;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 60px;
+        font-weight: bold;
+    }
+    
+    header h2 {
+        font-size: 36px;
+    }
+    
+    main {
+        background: #DA291C;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    main h1 {
+        width: 100%;
+        text-align: center;
+    }
+    
+    ul {
+        list-style: none;
+        padding: 0;
+    }

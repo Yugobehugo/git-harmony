@@ -1,7 +1,7 @@
 # WELCOME TO OUR GITHUB PAGES 🇬🇧
 
 ## Step 1 
-Cloning the repository
+Clone the repository
 
 ## Step 2
 Go to script.js 
@@ -15,7 +15,7 @@ Add your name and job to the **team** constant
 # BIENVENUE SUR NOTRE PAGE GITHUB 🇫🇷
 
 ## Étape 1 
-Cloner le repositorie
+Cloner le dêpot
 
 ## Étape 2
 Aller sur le script.js 
