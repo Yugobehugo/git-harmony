@@ -1,7 +1,7 @@
 const team = [
     {
         name: "Julien",
-        occupation: "Dev back-end"  
+        occupation: "Dev back-end"
     },
 ]
 
