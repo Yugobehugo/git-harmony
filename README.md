@@ -1,7 +1,7 @@
 # WELCOME TO OUR GITHUB PAGES 🇬🇧
 
 ## Step 1 
-Cloning the repository
+Clone the repository
 
 ## Step 2
 Go to script.js 
