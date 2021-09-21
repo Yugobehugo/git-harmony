@@ -1,11 +1,12 @@
     body {
         margin: 0;
         padding: 0;
+        color: #CEAB5D;
     }
     
     header {
         height: 200px;
-        background: red;
+        background: #004170;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -16,7 +17,7 @@
     }
     
     main {
-        background: orangered;
+        background: #DA291C;
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
