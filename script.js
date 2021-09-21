@@ -4,6 +4,10 @@ const team = [
         occupation: "Dev back-end"  
     },
     {
+        name: "Margaux",
+        occupation: "Trop Belle" 
+    },
+    {
         name: "Nico",
         occupation: "Futur ultras 🔴🔵"
     },
