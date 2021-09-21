@@ -1,15 +1,18 @@
-const team = [
-    {
+const team = [{
         name: "Julien",
-        occupation: "Dev back-end"  
+        occupation: "Dev back-end"
     },
     {
         name: "Margaux",
-        occupation: "Trop Belle" 
+        occupation: "Trop Belle"
     },
     {
         name: "Nico",
         occupation: "Futur ultras 🔴🔵"
+    },
+    {
+        name: "Hugo",
+        occupation: "Twittos"
     },
 ]
 
