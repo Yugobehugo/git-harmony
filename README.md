@@ -9,6 +9,11 @@ Go to script.js
 ## Step 3
 Add your name and job to the **team** constant
 
+## Step 4
+Open in the networks for see the See the changes
+
+# The final version is : http://harmony.barbec.tk/
+
 
 ---
 
@@ -23,4 +28,7 @@ Aller sur le script.js
 ## Étape 3
 Ajouter son nom et son métier dans la constante **team**
 
+## Étape 4 
+Ouvrir le fichier dans le navigateur pour voir le changements
 
+# La version finale est sur cette adresse : http://harmony.barbec.tk/

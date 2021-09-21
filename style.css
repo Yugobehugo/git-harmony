@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+    
     body {
         margin: 0;
         padding: 0;
-        color: #CEAB5D;
+        font-family: 'Roboto', sans-serif;
     }
     
     header {
@@ -12,6 +14,7 @@
         align-items: center;
         font-size: 60px;
         font-weight: bold;
+        color: white;
     }
     
     header h2 {
@@ -19,7 +22,6 @@
     }
     
     main {
-        background: #DA291C;
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
@@ -29,6 +31,7 @@
     main h1 {
         width: 100%;
         text-align: center;
+        color: #DA291C;
     }
     
     ul {
