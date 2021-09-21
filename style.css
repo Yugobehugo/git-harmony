@@ -1,0 +1,33 @@
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    
+    header {
+        height: 200px;
+        background: red;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    header h2 {
+        font-size: 36px;
+    }
+    
+    main {
+        background: orangered;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    main h1 {
+        width: 100%;
+        text-align: center;
+    }
+    
+    ul {
+        list-style: none;
+        padding: 0;
+    }
