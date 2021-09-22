@@ -17,7 +17,7 @@ Open in the browser to see the changes
 
 ## Authors of the content 💪🏻
 
-Julien [@Nipseon](https://github.com/Nispeon) <br>
+Julien [@Nispeon](https://github.com/Nispeon) <br>
 Margaux [@MargauxMalsch](https://github.com/Margauxmalsch)<br>
 Hugo [@Yugobehugo](https://github.com/Yugobehugo)<br>
 Nicolas [@Nvcq](https://github.com/Nvcq)
@@ -49,7 +49,7 @@ Ouvrir le fichier dans le navigateur pour voir le changement
 ## Auteurs du contenu 💪🏻
 
 
-Julien [@Nipseon](https://github.com/Nispeon) <br>
+Julien [@Nispeon](https://github.com/Nispeon) <br>
 Margaux [@MargauxMalsch](https://github.com/Margauxmalsch)<br>
 Hugo [@Yugobehugo](https://github.com/Yugobehugo)<br>
 Nicolas [@Nvcq](https://github.com/Nvcq)
