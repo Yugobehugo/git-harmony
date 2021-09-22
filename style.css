@@ -25,7 +25,9 @@
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
+        align-items: center;
         padding-bottom: 25px;
+        flex-direction: column;
     }
     
     main h1 {
@@ -37,6 +39,10 @@
     ul {
         list-style: none;
         padding: 0;
+    }
+
+    li {
+       text-align: center;
     }
 
     img {
